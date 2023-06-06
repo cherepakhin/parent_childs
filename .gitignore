@@ -33,4 +33,4 @@ build/
 ### db ###
 mydb/
 derby.log
-logs/
+log/
