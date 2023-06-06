@@ -8,7 +8,7 @@ server:
 
 spring:
   application:
-    name: easybotshop
+    name: group_product
   h2:
     console:
       enabled: true
