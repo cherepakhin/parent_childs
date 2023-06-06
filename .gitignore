@@ -31,6 +31,5 @@ build/
 .vscode/
 
 ### db ###
-mydb/
 derby.log
-log/
+/log/
